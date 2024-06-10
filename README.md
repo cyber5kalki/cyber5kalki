@@ -1,4 +1,4 @@
-##जय अंजनेया 🚩🛕🐚🕉️🔱🪘
+## जय अंजनेया 🚩🛕🐚🕉️🪘
 
 # Hi there, I'm Barenkala Bhuvan Subramanyam 👋
 
@@ -21,13 +21,13 @@ I'm a passionate and aspiring cybersecurity enthusiast 🛡️, dedicated to lea
 - Threat hunting 🕵️‍♀️
 
 ## 💼 Projects
-- **[Vulnerable Web App](https://github.com/yourusername/vulnerable-web-app)**: A deliberately vulnerable web application for learning and practicing penetration testing techniques.
-- **[CTF Challenges](https://github.com/yourusername/ctf-challenges)**: Collection of Capture The Flag challenges I've solved and created.
-- **[Malware Analysis Lab](https://github.com/yourusername/malware-analysis-lab)**: A lab environment for analyzing and reverse engineering malware samples.
+- **[Art-of-Secrecy](https://art-of-secrecy.vercel.app/)**: A deliberately vulnerable web application for learning and practicing penetration testing techniques.
+<!--- **[CTF Challenges](https://github.com/yourusername/ctf-challenges)**: Collection of Capture The Flag challenges I've solved and created.
+- **[Malware Analysis Lab](https://github.com/yourusername/malware-analysis-lab)**: A lab environment for analyzing and reverse engineering malware samples.--->
 
 ## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) 🌐
-- [Twitter](https://twitter.com/yourprofile) 🐦
+- [LinkedIn](https://www.linkedin.com/in/bhuvan-subramanyam-barenkala-406147255/) 🌐
+- [Twitter](https://x.com/Seetheya5kiddio?t=rAFI-Zd4mThbdFPFokSYQA&s=09) 🐦
 - [Blog](https://yourblog.com) ✍️
 
 ## 📊 GitHub Stats
