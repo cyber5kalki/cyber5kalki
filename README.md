@@ -21,7 +21,7 @@ I'm a passionate and aspiring cybersecurity enthusiast 🛡, dedicated to learni
 - Threat hunting 🕵‍♀
 
 ## 💼 Projects
-- *[Art-of-Secrecy](https://art-of-secrecy.vercel.app/)*: A deliberately vulnerable web application for learning and practicing penetration testing techniques.
+- *[Art-of-Secrecy](https://art-of-secrecy.vercel.app/)*: It's provides functionalities for both hashing and steganography.
 <!--- *[CTF Challenges](https://github.com/yourusername/ctf-challenges)*: Collection of Capture The Flag challenges I've solved and created.
 - *[Malware Analysis Lab](https://github.com/yourusername/malware-analysis-lab)*: A lab environment for analyzing and reverse engineering malware samples.--->
 
