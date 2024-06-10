@@ -39,8 +39,7 @@ I'm a passionate and aspiring cybersecurity enthusiast 🛡️, dedicated to lea
 - **Platforms**: Linux 🐧, Windows 🪟, Kali Linux 💻
 
 ## 🏆 Achievements
-- Completed [Hack The Box](https://www.hackthebox.eu) machines 🥇
-- Solved various [TryHackMe](https://tryhackme.com) challenges 🥈
+- Solved various [TryHackMe](https://tryhackme.com/badge/2026943) challenges 🥇
 - Contributed to open-source cybersecurity projects 🌍
 
 ## 🤝 Open to Collaborate
@@ -48,4 +47,5 @@ I'm always open to collaborate on cybersecurity projects, participate in CTFs, a
 
 ---
 
-*“॥अंतः अस्ति प्रारंभ:॥ अर्थात्, जहां से अंत होता है, वहीं से कुछ नये कि शुरुआत भी होती है।”*
+*“॥अंतः अस्ति प्रारंभ:॥ 
+अर्थात्, जहां से अंत होता है, वहीं से कुछ नये कि शुरुआत भी होती है।”*
