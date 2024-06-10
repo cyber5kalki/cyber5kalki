@@ -39,7 +39,7 @@ I'm a passionate and aspiring cybersecurity enthusiast 🛡️, dedicated to lea
 - **Platforms**: Linux 🐧, Windows 🪟, Kali Linux 💻
 
 ## 🏆 Achievements
-- Solved various [TryHackMe](https://tryhackme.com/badge/2026943) challenges 🥇
+- Solved various [TryHackMe](https://tryhackme.com/p/cyberkalki) challenges 🥇
 - Contributed to open-source cybersecurity projects 🌍
 
 ## 🤝 Open to Collaborate
