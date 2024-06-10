@@ -33,7 +33,7 @@ I'm a passionate and aspiring cybersecurity enthusiast 🛡, deeply committed to
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://yourblog.com)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber5kalki&show_icons=true&theme=radical)
 
 ## 🛠 Tools and Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
