@@ -2,8 +2,7 @@
 
 # Hi there, I'm Barenkala Bhuvan Subramanyam 👋
 
-![Banner](https://drive.google.com/file/d/1GFY1zuhDcNFuMko_cYXZj1O0MwxY26Xq/view?usp=sharing)
-
+![Header](./https://drive.google.com/file/d/1GFY1zuhDcNFuMko_cYXZj1O0MwxY26Xq/view?usp=sharing)
 ## 🚀 About Me
 I'm a passionate and aspiring cybersecurity enthusiast 🛡️, dedicated to learning and exploring the vast world of cybersecurity. My goal is to make the digital world a safer place by understanding the intricacies of cyber threats and defenses.
 
