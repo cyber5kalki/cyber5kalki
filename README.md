@@ -5,15 +5,16 @@
 ![Banner](https://drive.google.com/uc?export=view&id=1GFY1zuhDcNFuMko_cYXZj1O0MwxY26Xq)
 
 ## 🚀 About Me
-I'm a passionate and aspiring cybersecurity enthusiast 🛡, dedicated to learning and exploring the vast world of cybersecurity. My goal is to make the digital world a safer place by understanding the intricacies of cyber threats and defenses.
+I'm a passionate and aspiring cybersecurity enthusiast 🛡, deeply committed to exploring and learning about the vast world of cybersecurity. My goal is to make the digital world safer by understanding the intricacies of cyber threats and defenses. I strongly believe in following moral values and ethical principles in every aspect of my life, both personally and professionally.
 
 ## 🔍 Interests
-- Ethical Hacking 🕵‍♂
 - Penetration Testing 💻
+- Ethical Hacking 🕵‍♂
 - Cyber Threat Intelligence 🧠
 - Digital Forensics 🔍
 - Incident Response 🚨
 - Secure Coding 🔐
+- Spirituality 🧘🏻
 
 ## 🌱 Currently Learning
 - Advanced penetration testing techniques 🚀
@@ -28,6 +29,7 @@ I'm a passionate and aspiring cybersecurity enthusiast 🛡, dedicated to learni
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-subramanyam-barenkala-406147255/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Seetheya5kiddio?t=rAFI-Zd4mThbdFPFokSYQA&s=09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/script_kiddie.exe/)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://yourblog.com)
 
 ## 📊 GitHub Stats
