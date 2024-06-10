@@ -2,7 +2,8 @@
 
 # Hi there, I'm Barenkala Bhuvan Subramanyam 👋
 
-![Banner](https://drive.google.com/file/d/1i41vBmba0ruoHaAfKjGbB-I6elBIffNp/view?usp=drive_link)
+![Banner](![cyberkalki](https://github.com/cyber5kalki/cyber5kalki/assets/136343742/e8f5f294-7795-4f32-a903-108cd496d0d0)
+)
 
 ## 🚀 About Me
 I'm a passionate and aspiring cybersecurity enthusiast 🛡️, dedicated to learning and exploring the vast world of cybersecurity. My goal is to make the digital world a safer place by understanding the intricacies of cyber threats and defenses.
