@@ -1,13 +1,14 @@
-## जय अंजनेया 🚩🛕🐚🕉️🪘
+## जय अंजनेया 🚩🛕🐚🕉🪘
 
 # Hi there, I'm Barenkala Bhuvan Subramanyam 👋
 
-![Beader](./https://drive.google.com/file/d/1GFY1zuhDcNFuMko_cYXZj1O0MwxY26Xq/view?usp=sharing)
+![Banner](https://drive.google.com/uc?export=view&id=1GFY1zuhDcNFuMko_cYXZj1O0MwxY26Xq)
+
 ## 🚀 About Me
-I'm a passionate and aspiring cybersecurity enthusiast 🛡️, dedicated to learning and exploring the vast world of cybersecurity. My goal is to make the digital world a safer place by understanding the intricacies of cyber threats and defenses.
+I'm a passionate and aspiring cybersecurity enthusiast 🛡, dedicated to learning and exploring the vast world of cybersecurity. My goal is to make the digital world a safer place by understanding the intricacies of cyber threats and defenses.
 
 ## 🔍 Interests
-- Ethical Hacking 🕵️‍♂️
+- Ethical Hacking 🕵‍♂
 - Penetration Testing 💻
 - Cyber Threat Intelligence 🧠
 - Digital Forensics 🔍
@@ -17,25 +18,33 @@ I'm a passionate and aspiring cybersecurity enthusiast 🛡️, dedicated to lea
 ## 🌱 Currently Learning
 - Advanced penetration testing techniques 🚀
 - Malware analysis 🐍
-- Threat hunting 🕵️‍♀️
+- Threat hunting 🕵‍♀
 
 ## 💼 Projects
-- **[Art-of-Secrecy](https://art-of-secrecy.vercel.app/)**: A deliberately vulnerable web application for learning and practicing penetration testing techniques.
-<!--- **[CTF Challenges](https://github.com/yourusername/ctf-challenges)**: Collection of Capture The Flag challenges I've solved and created.
-- **[Malware Analysis Lab](https://github.com/yourusername/malware-analysis-lab)**: A lab environment for analyzing and reverse engineering malware samples.--->
+- *[Art-of-Secrecy](https://art-of-secrecy.vercel.app/)*: A deliberately vulnerable web application for learning and practicing penetration testing techniques.
+<!--- *[CTF Challenges](https://github.com/yourusername/ctf-challenges)*: Collection of Capture The Flag challenges I've solved and created.
+- *[Malware Analysis Lab](https://github.com/yourusername/malware-analysis-lab)*: A lab environment for analyzing and reverse engineering malware samples.--->
 
 ## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/bhuvan-subramanyam-barenkala-406147255/) 🌐
-- [Twitter](https://x.com/Seetheya5kiddio?t=rAFI-Zd4mThbdFPFokSYQA&s=09) 🐦
-- [Blog](https://yourblog.com) ✍️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-subramanyam-barenkala-406147255/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Seetheya5kiddio?t=rAFI-Zd4mThbdFPFokSYQA&s=09)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://yourblog.com)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 🛠️ Tools and Technologies
-- **Languages**: Python 🐍, Bash 🖥️, C 💻
-- **Tools**: Metasploit 🛠️, Wireshark 🦈, Burp Suite 🕵️‍♂️, Nmap 🌐, Osint 🕵️‍♂️
-- **Platforms**: Linux 🐧, Windows 🪟, Kali Linux 💻
+## 🛠 Tools and Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-4479A1?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5700?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0A0AFF?style=for-the-badge&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=OpenSourceInitiative&logoColor=white)
 
 ## 🏆 Achievements
 - Solved various [TryHackMe](https://tryhackme.com/p/cyberkalki) challenges 🥇
