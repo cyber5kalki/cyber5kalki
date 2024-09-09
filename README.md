@@ -49,6 +49,7 @@ I'm a passionate and aspiring cybersecurity enthusiast 🛡, deeply committed to
 ![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=OpenSourceInitiative&logoColor=white)
 
 ## 🏆 Achievements
+  <img src="https://tryhackme-badges.s3.amazonaws.com/cyberkalki.png" alt="TryHackMe">
 - Solved various [TryHackMe](https://tryhackme.com/p/cyberkalki) challenges 🥇
 - Contributed to open-source cybersecurity projects 🌍
 
